@@ -1,0 +1,51 @@
+body{
+    background-color: 205375;
+}
+#tejas{
+    background-color: A1E3D8;
+    margin-top: 20px;
+    width: 20%;
+    height: 130px;
+    border:  15px;
+    text-align: center;
+    padding-top: 100px;
+    border-style: dotted;
+    border-width: 3px;
+}
+
+#ankit{
+    background-color: green;
+    width: 20%;
+    height: 130px;
+    border: solid 10px;
+    text-align: center;
+    margin-left: 340px;
+    padding-top: 100px;
+    border-style: double;
+}
+#anuj{
+    background-color: white;
+    width: 20%;
+    height: 130px;
+    border: solid 20px;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: 670px;
+}
+#tejas:hover{
+    color: white;
+    background-color: black;
+    border-color: white;
+    transition: 1.5s;
+}
+#ankit:hover{
+    color: #F32424;
+    background-color: black;
+    border-color: yellowgreen;
+    transition: 1s;
+}
+#anuj:hover{
+    background-color: yellow;
+    border-color: brown;
+    transition: 1s;
+}
